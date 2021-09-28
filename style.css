@@ -1,0 +1,24 @@
+body, footer {
+    text-align: center;
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+}
+div {
+    background-color: beige;
+    margin: auto;
+    width: fit-content;
+    padding: 10px;
+}
+table {
+    margin: auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+tr {
+    border: 1px solid black;
+}
+td {
+    padding: 3px 0;
+    border: 1px solid black;
+    width: 110px;
+}
